@@ -91,10 +91,10 @@ No API keys, tokens, wallet private keys, personal data, or sensitive credential
 
 ## Team Members
 
-| Name | Responsibility |
-|官承逸|Game design|development|asset integration|
-|吳亮廷|quiz content|
-|王雍(warren)||github support|
+- | Name | Responsibility |
+- |官承逸|Game design|development|asset integration|
+- |吳亮廷|quiz content|
+- |王雍(warren)||github support|
 
 
 ## License

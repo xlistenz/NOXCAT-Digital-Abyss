@@ -93,7 +93,7 @@ No API keys, tokens, wallet private keys, personal data, or sensitive credential
 
 - | Name | Responsibility |
 - |官承逸|Game design|development|asset integration|
-- |吳亮廷|quiz content|
+- |吳亮廷|quiz content|Game design|development|asset integration|
 - |王雍(warren)||github support|
 
 
